@@ -156,7 +156,7 @@ message = paste(my_str, my_other_str)
 message # note automatically adds space
 ```
 
-####  Converting into character objects
+#### Converting into character objects
 
 We can convert other objects into character objects using the `as.character()` function
 
